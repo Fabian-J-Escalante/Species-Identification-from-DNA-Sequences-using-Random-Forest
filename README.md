@@ -15,14 +15,14 @@ they vary between individuals of the same species and between species.
 amino acid sequence (alphabetic sequences of approximately 21 letters)
 that store structural information or physicochemical properties. :dna:
 
-**This project tries to identify the species based on its DNA sequences.**
+[**This project tries to identify the species based on its DNA sequences.**](Species_identification_from_DNA_sequences_using_Random_Forest.ipynb)
 
 
 ---
 
 ### Dataset 📖
 
-You can use Drosophila_test and Drosophila_train for custom training. 
+You can use [Drosophila_test](Drosophila_test.xlsx) and [Drosophila_train](Drosophila_train.xlsx) for custom training. 
 It contains data on many types of fruit flies.
 
 For Google Colab, these files must be on your drive in the google sheets format, not the XLSX one.
